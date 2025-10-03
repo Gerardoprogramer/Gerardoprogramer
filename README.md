@@ -3,23 +3,27 @@
   Replace TU_USUARIO with your GitHub username and customize projects/contact.
 -->
 
-<h1 align="center">Hola 👋, soy Gerardo Martínez Monge (Tu nombre si quieres) — Desarrollador Full-Stack</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, soy Gerardo Martínez Monge — Desarrollador Full-Stack</h1>
 <p align="center">
   <strong>Construyo productos robustos y elegantes</strong> — frontend moderno, backend escalable y soluciones que escalan.
 </p>
-
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img alt="Visitor count" src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=0e75b6" />
+  <a href="https://github.com/Gerardoprogramer">
+    <img alt="Visitor count" src="https://komarev.com/ghpvc/?username=Gerardoprogramer&color=0e75b6" />
   </a>
   &nbsp; 
-  <a href="mailto:tu.email@ejemplo.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-tu.email%40ejemplo.com-blue?style=flat&logo=gmail" />
+  <a href="mailto:gerardoalonso.martinezmonge@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/gerardoalonso.martinezmonge@gmail.com-blue?style=flat&logo=gmail" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/tu-linkedin">
+  <a href="[https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/gerardo-mart%C3%ADnez-monge-0aa12231b/)">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Gerardoprogramer">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer+Developer">
+</a>
 </p>
 
 ---
@@ -33,81 +37,49 @@ Me encanta escribir código limpio, producir documentación útil y mejorar cont
 
 ---
 
-## 🛠️ Tech stack (lo que uso a diario)
-**Frontend:** React · Vue · TypeScript · Vite · TailwindCSS · GSAP  
-**Backend:** Python · FastAPI · Django · SQLModel · PostgreSQL · Redis  
-**DevOps / Infra:** Docker · GitHub Actions · Nginx · Vercel · Railway · CI/CD  
-**Herramientas:** Git · VS Code · Figma · Postman · Insomnia
-
----
-
-## ⭐ Proyectos destacados
-> Haz click en los nombres para ver repositorios / demos
-
-- **[NombreProyecto1](https://github.com/TU_USUARIO/nombreproyecto1)** — SPA con React + Vite, integración con API REST, auth JWT, despliegue en Vercel.  
-  *Qué destaca:* arquitectura por features, test básico, CI con GitHub Actions.
-
-- **[NombreProyecto2](https://github.com/TU_USUARIO/nombreproyecto2)** — API en FastAPI con autenticación y pruebas, dockerizada y lista para producción.  
-  *Qué destaca:* endpoints versionados y endpoints de administración.
-
-- **[NombreProyecto3](https://github.com/TU_USUARIO/nombreproyecto3)** — Mini juego / sistema de quests (tu interés actual).  
-  *Qué destaca:* lógica de quests, sistema de equipamiento y UX adaptado móvil/desktop.
-
-> Añade 1–2 frases sobre impacto o métricas (p. ej. “+100 usuarios”, “integrado con Stripe”, “reducción de latencia 40%”)
-
----
-
 ## 📈 Estadísticas (dinámicas)
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gerardoprogramer&show_icons=true&theme=radical" />
   &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardoprogramer&layout=compact&theme=radical" />
 </p>
 
 <!-- Streak / Contributions -->
 <p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" />
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gerardoprogramer&theme=radical" />
 </p>
 
 ---
 
 ## 🔭 Actualmente
-- Mejorando un sistema de **quests y combate** para un juego (frontend + backend + editor WYSIWYG para batallas).
-- Migrando componentes de UI para mejor rendimiento y experiencia móvil/desktop.
-- Automatizando despliegue y tests en pipelines CI.
+- Aprendiendo **React** con su ecosistema moderno.
+- Trabajando con **Vite** para proyectos rápidos y optimizados.
+- Usando **Vitest** para comenzar con pruebas unitarias en frontend.
+- Profundizando en **TailwindCSS** y animaciones con GSAP.
+- Construyendo proyectos prácticos para mi portafolio (dashboards, portfolios, minijuegos).
 
 ---
 
 ## 💡 Cómo puedo ayudarte / contratarme
-- Trabajo freelance o colaboraciones en proyectos frontend/backend.
-- Consultoría en migración, arquitectura ligera, optimización de performance.
-- Si quieres colaborar: escríbeme a **tu.email@ejemplo.com** o abre un issue en cualquier repo.
+- Abierto a **oportunidades laborales** en desarrollo frontend y también en backend.
+- Disponible para **colaboraciones freelance** en proyectos web.
+- Con interés en seguir creciendo y aportando en equipos ágiles de desarrollo.
+- 📩 Contáctame: **gerardoalonso.martinezmonge@gmail.com**  
+  o abre un issue en cualquiera de mis repositorios.
 
 ---
 
 ## 🧰 Extras / Widgets útiles
-- Portafolio: https://tu-portfolio.com  
-- Résumé (PDF): [Descargar CV](https://tu-portfolio.com/cv.pdf)
+- Portafolio: https://mybookportfolio.netlify.app/  
+- Résumé (PDF): [Descargar CV](https://mybookportfolio.netlify.app/CV_GerardoAlonsoMartinezMonge.pdf)
 
 ---
 
 ## 🤝 Conecta conmigo
 <p>
-  <a href="https://twitter.com/tu_twitter"><img src="https://img.shields.io/badge/Twitter-@tu_twitter-1DA1F2?style=flat&logo=twitter" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/gerardo-mart%C3%ADnez-monge-0aa12231b/"><img src="https://img.shields.io/badge/LinkedIn-Open-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Open-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:tu.email@ejemplo.com"><img src="https://img.shields.io/badge/Email-Contact%20me-orange?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="mailto:gerardoalonso.martinezmonge@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-orange?style=flat&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
-
-> ⚙️ **Consejos para dejarlo perfecto**
-> 1. Reemplaza `TU_USUARIO` por tu usuario en todas las URLs de imágenes y enlaces.  
-> 2. Rellena proyectos con una breve descripción de lo que aporta cada uno (impacto + tecnologías).  
-> 3. Cambia el theme de las tarjetas de stats si quieres otro look (ej. `theme=tokyonight`, `theme=merko`).  
-> 4. Añade un GIF o una imagen hero personalizada en la parte superior si quieres más personalidad.
-
----
-
-¡Listo! Si quieres que lo personalice más (lenguaje exacto, proyectos reales, frases en primera persona, GIFs, o un `README.md` que se actualice automáticamente con una GitHub Action), dime tu **usuario de GitHub** y un par de proyectos que quieras destacar y lo dejo totalmente a medida.
