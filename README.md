@@ -41,7 +41,7 @@
 - Aprendiendo **React** y su ecosistema moderno (Vite, Vitest, TailwindCSS).
 - Creando proyectos prácticos: **dashboards, portfolios, minijuegos**.
 - Experimentando con **animaciones GSAP** y diseño responsivo avanzado.
-- Mejorando mi stack backend con **FastAPI y Django**.
+- Mejorando mi stack backend con **Nests**.
 
 ---
 
