@@ -52,7 +52,6 @@
 
 📩 Contáctame: **gerardoalonso.martinezmonge@gmail.com**  
 🌐 Portafolio: [mybookportfolio.netlify.app](https://mybookportfolio.netlify.app)  
-📄 Résumé: [Descargar CV](https://mybookportfolio.netlify.app/CV_GerardoAlonsoMartinezMonge.pdf)
 
 ---
 
