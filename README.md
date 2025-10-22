@@ -51,7 +51,7 @@
 - Entusiasmado por crecer en **equipos ágiles** y aportar con código de calidad.  
 
 📩 Contáctame: **gerardoalonso.martinezmonge@gmail.com**  
-🌐 Portafolio: [https://mybookportfolio.netlify.app](https://verdant-valkyrie-021748.netlify.app/)
+🌐 Portafolio: [https://verdant-valkyrie-021748.netlify.app](https://verdant-valkyrie-021748.netlify.app/)
 
 ---
 
