@@ -57,7 +57,7 @@
 
 ## 🤝 Conecta conmigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/gerardo-mart%C3%ADnez-monge-0aa12231b/"><img src="https://img.shields.io/badge/LinkedIn-Open-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/gerardomartinezmonge/"><img src="https://img.shields.io/badge/LinkedIn-Open-blue?style=for-the-badge&logo=linkedin" /></a>
   &nbsp;
   <a href="mailto:gerardoalonso.martinezmonge@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail" /></a>
 </p>
