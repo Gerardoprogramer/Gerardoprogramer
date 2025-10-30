@@ -38,10 +38,10 @@
 ---
 
 ## 🔭 Actualmente
-- Aprendiendo **React** y su ecosistema moderno (Vite, Vitest, TailwindCSS).
-- Creando proyectos prácticos: **dashboards, portfolios, minijuegos**.
+- Aprendiendo **NestJS**, **Next.js** y **Docker** para backend y despliegues modernos.  
+- Profundizando en **React** y su ecosistema: Vite, Vitest, TailwindCSS.  
+- Creando proyectos prácticos: dashboards, portfolios, mini-juegos y **sistemas de pagos**.  
 - Experimentando con **animaciones GSAP** y diseño responsivo avanzado.
-- Mejorando mi stack backend con **Nests**.
 
 ---
 
