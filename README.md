@@ -46,7 +46,7 @@
 ---
 
 ## 💡 Cómo puedo ayudarte / contratarme
-- Abierto a **oportunidades laborales** (frontend React, backend Python).  
+- Abierto a **oportunidades laborales**.  
 - Disponible para **colaboraciones freelance** en proyectos web.  
 - Entusiasmado por crecer en **equipos ágiles** y aportar con código de calidad.  
 
