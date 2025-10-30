@@ -14,7 +14,7 @@
 ## 🌟 Sobre mí
 💻 Soy un desarrollador apasionado por **construir productos robustos y elegantes** que resuelven problemas reales.  
 ⚡ Actualmente enfocado en **React + Vite + Vitest**, reforzando testing y buenas prácticas.  
-🚀 Con experiencia backend en **Python (FastAPI / Django)** y bases de datos SQL/NoSQL.  
+🚀 Con experiencia backend, frontend y bases de datos SQL/NoSQL.  
 🎯 Me motiva escribir **código limpio**, aprender nuevas tecnologías y compartir lo que construyo.  
 
 ---
