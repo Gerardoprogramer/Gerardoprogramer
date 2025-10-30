@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%" />
 
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, soy <span style="color:#4fa9ff">Gerardo Martínez Monge</span></h1>
-<h3 align="center">🚀 Desarrollador Full-Stack | Frontend React + Backend Python</h3>
+<h3 align="center">🚀 Desarrollador Full-Stack</h3>
 
 <p align="center">
   <a href="https://github.com/Gerardoprogramer">
